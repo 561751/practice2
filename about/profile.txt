@@ -1,2 +1,3 @@
 Имя: Дарья
 Фамилия: Лобова
+email: rivsswork@yandex.ru
